@@ -1,0 +1,9 @@
+setup.py
+FrimmyGame/HelloWorld.py
+FrimmyGame/__init__.py
+FrimmyGame.egg-info/PKG-INFO
+FrimmyGame.egg-info/SOURCES.txt
+FrimmyGame.egg-info/dependency_links.txt
+FrimmyGame.egg-info/requires.txt
+FrimmyGame.egg-info/top_level.txt
+bin/hello-world.py
